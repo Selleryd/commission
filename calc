@@ -1,36 +1,248 @@
 
-<!DOCTYPE html><html dir="ltr" lang="en" class="theme light classic"><head><base href="/dagop4r0zi4/"><meta charset="utf-8"><title>Luxury Home Selling Commission Calculator</title><meta name="app-name" content="export_website"/><meta name="viewport" content="width=device-width, initial-scale=1"><link href="_assets/a0684b0780c739e9.vendor.ltr.css" rel="stylesheet" integrity="sha512-JwMCpiHdk95MoUTatfaZJwstzeDnWfvWMJiwnSxZfPmgeCe4yvQDQ+ONMQjIy/Ht72r0TmlE+gvZnYRnpdLdVg==" crossorigin="anonymous"><link href="_assets/972752bb5c94cb50.ltr.css" rel="stylesheet" integrity="sha512-BNnBNAHpjmBdGZubDzma1JOhKOJcKcObLINo2rp22e7UIHrnKbL00x/oyH3uwNFrM+0fvcciAAdRAi+LIlkYPQ==" crossorigin="anonymous"><link href="_assets/static_font_4.ltr.css" rel="stylesheet"><link href="_assets/8e5ec9f6ec0640d2.runtime.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-IxBZT+Cq7ZFiFI4c4ttLlN/3EHxowoN03/cKzmLbe+Irkf2VMcayi96d8adwMnbCooqZTeBpwn2GusKM7g8hYg==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"><link href="_assets/c0feee7212ef7ec1.i3d79q.vendor.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-28VLsnzSrYuJHZcZS4tF/Vm43quL3JoVU591yX4OMeN65ce6A9IjvwR3BtwZHhvmCDvwDkREIIEow4jipBA70g==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"><link href="_assets/a975461ea63683b9.vendor.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-bX2cbHM8OgWNS5bi2i1obCzCkrf1k0mgl0xvgTlDavbk2OHgIcOHOyvAd9GJ02Qi2iiK5o6/u3lULCevfgcadA==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"><link href="_assets/0aefb74a9ea3a9fd.strings.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-ZxXpMRVBe8ynh8BGj5DhDo1T5QiRr/q0rycOf808BOPGkdbL1zOWm1q1EqVF3WsBBsbaBGAoqm2ny2mSKZc1nw==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"><link href="_assets/cf274150b001acf0.en.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-BQycU6ojOYNjFgM0UfNI+gIeLGPWUNaa/bNpuqCdJ/9dav5a6qdUkdjEjFRfyX2r+QNWQ4pZTWw2185DFOTdBg==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"><link href="_assets/0d98854c0ce1963b.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-cN7mgZxS1hbbta0LdGaMcCxtkLJk+xWwXNQcC5iC/wgGjMLkpcXKWh06QxFJNpgtnKymLX1kLjpxQ89tHVjkcA==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"><meta name="referrer" content="strict-origin-when-cross-origin"><meta property="og:title" content="Luxury Home Selling Commission Calculator"><meta property="og:type" content="website"><link rel="shortcut icon" href="_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png"><link rel="icon" href="_assets/images/e53c4bd8da5e491d9ab09e7cf0daf874.png" sizes="192x192"><link rel="apple-touch-icon" href="_assets/images/725b756a69a7d4c235070e51acd85560.png" sizes="180x180"><script nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff">
-      document.addEventListener('contextmenu', (e) => {
-        const isMedia = ['img', 'image', 'video', 'svg', 'picture'].some(
-          tagName => tagName.localeCompare(e.target.tagName, undefined, { sensitivity: 'base' }) === 0,
-        );
-        isMedia && e.preventDefault();
-      });
-    </script><script nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff">
-  const lang = navigator.language ? navigator.language : 'en';
-  window.canva_installFooter = (container) => {
-    if (!(container instanceof HTMLDivElement)) {
-      return;
-    }
-    fetch('_footer?lang=' + encodeURIComponent(lang)).then(response => {
-      if (response.status !== 200) {
-        return;
-      }
-      response.text().then(footerStr => {
-        const div = document.createElement('div');
-        div.innerHTML = footerStr;
-        for (const child of [...div.children]) {
-          if (child.tagName.toLowerCase() !== 'script') {
-            container.append(child);
-          }
-        }
 
-        (() => { !function(e){"use strict";const t=document.getElementById("modal_backdrop"),n=document.getElementById("modal"),o=document.getElementById("captcha-form"),c=document.getElementById("report_button"),d=document.getElementById("form_report"),s=document.getElementById("form_cancel"),l=document.getElementById("form_submit_reason"),a=document.getElementById("form_go_back"),r=document.getElementById("form_submit_captcha"),m=document.getElementById("form_close"),i=document.getElementById("form_close_initial"),u=document.getElementById("report_reason_0"),p=document.getElementById("error_message"),_=document.getElementById("error_message_captcha"),y=new Map;y.set(0,document.getElementById("form_step_terms")),y.set(1,document.getElementById("form_step_report_reason")),y.set(4,document.getElementById("form_step_report_other"));const E=document.getElementById("form_step_report_ip");E&&y.set(5,E),y.set(2,document.getElementById("form_step_captcha")),y.set(3,document.getElementById("form_step_success"));const f=document.getElementById("report_reason_4"),g=document.getElementById("form_close_ip"),h=document.getElementById("form_go_back_ip"),I=document.getElementById("report_reason_other"),k=document.getElementById("form_close_other"),w=document.getElementById("form_go_back_other");function v(){t.classList.remove("active"),n.classList.remove("active"),c.classList.remove("active"),c.focus()}function B(e){y.forEach(((t,n)=>{n===e?(t.style.display="block",L(t)):t.style.display="none"}))}let b,C=!1;const T="NETEASE"===window.C_CAPTCHA_IMPLEMENTATION?()=>b:()=>{const e=o.elements.namedItem("g-recaptcha-response");return null==e?void 0:e.value};t.onclick=v,s.onclick=v,m.onclick=v,i.onclick=v,g&&(g.onclick=v),k.onclick=v,c.onclick=function(){y.forEach(((e,t)=>{e.style.display=0===t?"block":"none"})),t.classList.add("active"),n.classList.add("active"),c.classList.add("active"),u.checked=!0,setTimeout((()=>{L(y.get(0))}),350)},d.onclick=d.dataset.reportUrl?function(){const{origin:e,pathname:t}=window.location,n=e+t,o=d.dataset.reportUrl+encodeURIComponent(n);window.open(o)}:()=>B(1),l.onclick=()=>{null!=E&&f.checked?B(5):I.checked?B(4):(B(2),function(){if(C)return;const e=document.createElement("script");e.src="NETEASE"===window.C_CAPTCHA_IMPLEMENTATION?"https://cstaticdun.126.net/load.min.js":"https://www.google.com/recaptcha/api.js",e.async=!0,e.defer=!0,document.head.appendChild(e),C=!0,e.onload="NETEASE"===window.C_CAPTCHA_IMPLEMENTATION?()=>{var e;null===(e=window.initNECaptcha)||void 0===e||e.call(window,{captchaId:window.C_CAPTCHA_KEY,element:"#netease-captcha",protocol:"https",width:"auto",onVerify:(e,t)=>{b=t.validate}})}:()=>{}}())},a.onclick=()=>B(1),h&&(h.onclick=()=>B(1)),w.onclick=()=>B(1),o.addEventListener("submit",(function(e){e.preventDefault(),p.style.display="none",_.style.display="none";const t=function(){let e="";const t=document.getElementsByName("report_reason");for(let n=0;n<t.length;n++){const o=t[n];o.checked&&(e=o.value)}return e}(),n=T();if(!n)return void(_.style.display="block");const o={reason:t,challenge:n},c=window.location.origin+window.location.pathname+"/_api/report";r.classList.add("loading"),fetch(c,{method:"POST",body:JSON.stringify(o),headers:{"Content-Type":"application/json; charset=utf-8"}}).then((e=>{r.classList.remove("loading"),e.ok?B(3):p.style.display="block"}))}));const A=new Map,L=e=>{const t=A.get(e);null!=t&&document.removeEventListener("keydown",t);const n=e.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'),o=e,c=n[n.length-1],d=function(e){("Tab"===e.key||9===e.keyCode)&&(e.shiftKey?document.activeElement===o&&(c.focus(),e.preventDefault()):document.activeElement===c&&(o.focus(),e.preventDefault()))};A.set(e,d),document.addEventListener("keydown",d),o.focus()};e.keepFocus=L,Object.defineProperty(e,"__esModule",{value:!0})}({}); })();
-      });
-    });
-  }
-</script><script nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff">
-    window.C_CAPTCHA_IMPLEMENTATION = 'RECAPTCHA';
-</script><script nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff">
-    window.C_CAPTCHA_KEY = '6Ldk59waAAAAAMPqkICbJjfMivZLCGtTpa6Wn6zO';
-</script></head><body><script nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff">document.documentElement.classList.replace('adaptive', window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');</script><div id="root"></div><script nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff">(function() {window['__canva_public_path__'] = '_assets\/'; window['bootstrap'] = JSON.parse('{"base":{"A?":"B","L":false,"N":false,"E":"b0160923e87cb3bc361237455b917577887ed9f7","K":1748361540,"F":{"A?":"B"},"G":"CLIENT_FULL","I":"A","O":{"A?":"B"},"M":"/_online","U":[],"V":[],"a":{"K":"export_website","H":{}},"d":{"A":"wss://www.canva.com/_stream","B":{"F":"export_website"}},"b":{"A?":"H","C":{"a":"WEB"},"D":{"a":"WEB","c":"en"},"E":{},"P":[],"Q":[],"R":false,"S":false}},"page":{"A":{"B":{"A?":"A","A":"TAGcbLa0hys","B":1},"C":{"A":1366.0,"B":768.0,"C":"D"},"Q":[],"R":[],"P":"en","D":"Luxury Home Selling Commission Calculator","E":"","F":[],"G":{},"Y":{},"a":[],"b":[],"V":[],"W":[],"A":[{"A?":"j","Z":{"A?":"A","A":"TAGcbLa0hys","B":1},"a":"PBVqdDHzns2YWdmw","R":false,"S":false,"U":false,"Q":{},"v":"B","t":[{"A?":"i","a":"PBbrv2rLHlZmMgDV","R":false,"S":false,"U":false,"Q":{},"W":[],"X":[],"H":[],"L":{},"C":{"A":1366.0,"B":768.0,"C":"D"},"D":{"C":"#ffffff","D":0.0,"F":false,"J":false,"G":false,"H":false},"r":[],"E":[{"A?":"O","A":0.0,"B":0.0,"D":1366.0,"C":768.0,"E":0.0,"F":0.0,"BA":[],"BB":[],"Q":false,"S":false,"P":[],"5":{},"T":{},"W":{},"a":"_website-element-widget?version=v2&pageIndex=0&elementIndex=0&elementType=C&locale=en","b":1366.0,"c":768.0}],"I":[]}],"u":[],"L":{}}],"I":[]},"Z":{"A?":"E","M":"en","e":true,"f":{"B":"#ffffff","C":"#304254"},"g":[{"A?":"A","K":"PBVqdDHzns2YWdmw","e":{"A":true}}]},"B":[{"A":"YACgEZ1cb1Q","B":0,"C":"Arimo","D":[{"style":"ITALICS","files":[{"url":"_assets/fonts/79d14bb61301a10c73c6cb293c29b309.otf","format":"OTF","unicodeRanges":[],"sizeBytes":440740},{"url":"_assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2","format":"WOFF2","unicodeRanges":[],"sizeBytes":201132},{"url":"_assets/fonts/ac9b8a560f98d1757a4565a2419d33c3.woff","format":"WOFF","unicodeRanges":[],"sizeBytes":240632}],"subsettedFiles":[],"scriptSubsetFiles":[],"metadata":{"head":{"unitsPerEm":2048,"yMin":-621,"yMax":2077},"hhea":{"ascender":1854,"descender":-434,"lineGap":67},"os2":{"sTypoAscender":1491,"sTypoDescender":-425,"sTypoLineGap":307,"usWinAscent":1854,"usWinDescent":434,"fsSelection":1}}},{"style":"REGULAR","files":[{"url":"_assets/fonts/daee28464eba92254cb149feea6599e3.otf","format":"OTF","unicodeRanges":[],"sizeBytes":436180},{"url":"_assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2","format":"WOFF2","unicodeRanges":[],"sizeBytes":194188},{"url":"_assets/fonts/4ff8a742aa834e35f10ead140b735c45.woff","format":"WOFF","unicodeRanges":[],"sizeBytes":234380}],"subsettedFiles":[],"scriptSubsetFiles":[],"metadata":{"head":{"unitsPerEm":2048,"yMin":-621,"yMax":2007},"hhea":{"ascender":1854,"descender":-434,"lineGap":67},"os2":{"sTypoAscender":1491,"sTypoDescender":-431,"sTypoLineGap":307,"usWinAscent":1854,"usWinDescent":434,"fsSelection":64}}},{"style":"BOLD_ITALICS","files":[{"url":"_assets/fonts/4de29305db46625343735e840e3d27aa.otf","format":"OTF","unicodeRanges":[],"sizeBytes":435028},{"url":"_assets/fonts/7fc2786f9023d4d812357cb787e9ad4b.woff","format":"WOFF","unicodeRanges":[],"sizeBytes":237660},{"url":"_assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2","format":"WOFF2","unicodeRanges":[],"sizeBytes":203232}],"subsettedFiles":[],"scriptSubsetFiles":[],"metadata":{"head":{"unitsPerEm":2048,"yMin":-771,"yMax":2109},"hhea":{"ascender":1854,"descender":-434,"lineGap":67},"os2":{"sTypoAscender":1491,"sTypoDescender":-431,"sTypoLineGap":307,"usWinAscent":1854,"usWinDescent":434,"fsSelection":33}}},{"style":"BOLD","files":[{"url":"_assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2","format":"WOFF2","unicodeRanges":[],"sizeBytes":194064},{"url":"_assets/fonts/0bb563f2f60ffd4e62b64cb021c33776.otf","format":"OTF","unicodeRanges":[],"sizeBytes":438516},{"url":"_assets/fonts/9fd726aeae98b22824f0dc8947036e77.woff","format":"WOFF","unicodeRanges":[],"sizeBytes":234696}],"subsettedFiles":[],"scriptSubsetFiles":[],"metadata":{"head":{"unitsPerEm":2048,"yMin":-771,"yMax":2116},"hhea":{"ascender":1854,"descender":-434,"lineGap":67},"os2":{"sTypoAscender":1491,"sTypoDescender":-431,"sTypoLineGap":307,"usWinAscent":1854,"usWinDescent":434,"fsSelection":32}}}],"E":false}],"E":[],"F":[],"G":[],"H":[{"A":"https://www.canva-hosted-embed.com/codelet/bcfg712vm2ss7v5b","Q":false,"B":"Canva","D":1748361540515,"E":"\x3ciframe src=\\"https://bcfg712vm2ss7v5b.canva-hosted-embed.com/codelet/AAEAEGJjZmc3MTJ2bTJzczd2NWIAAAAAAZcXnk-i8vOzYeYmAloLhGVftiLl3SvIs69FQMznaYyd_NZlbgo/\\" sandbox=\\"allow-same-origin allow-scripts allow-popups allow-forms\\" allowfullscreen=\\"true\\" width=\\"800\\" height=\\"450\\" style=\\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;\\" allow=\\"fullscreen\\">\x3c/iframe>","F":1366,"G":768},{"A":"_website-element-widget?version=v2&pageIndex=0&elementIndex=0&elementType=C&locale=en","Q":false,"B":"Canva","D":1748361540578,"E":"\x3ciframe src=\\"_website-element-widget?version=v2&pageIndex=0&elementIndex=0&elementType=C&locale=en\\" width=\\"1366\\" height=\\"768\\" frameborder=\\"0\\" sandbox=\\"allow-same-origin allow-scripts allow-popups allow-forms allow-popups-to-escape-sandbox\\" referrerpolicy=\\"strict-origin-when-cross-origin\\">\x3c/iframe>","F":1366,"G":768}],"S":[],"K":{"B":"#ffffff","C":"#304254"},"Q":{"A":false,"B":true,"M":true},"R":false,"T":true,"U":false},"ui":{"N":false,"A":true,"B":"A","C":false,"D":false,"K":"A","I":true,"J":false}}'); window['flags'] = JSON.parse('{"df03744c":true,"978ce15d":150000.0,"fb00120d":true}'); window['cmsg'] = window['cmsg'] || { locale: "en", strings: {} };})();</script><script crossorigin="anonymous" src="_assets/8e5ec9f6ec0640d2.runtime.js" defer integrity="sha512-IxBZT+Cq7ZFiFI4c4ttLlN/3EHxowoN03/cKzmLbe+Irkf2VMcayi96d8adwMnbCooqZTeBpwn2GusKM7g8hYg==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"></script><script crossorigin="anonymous" src="_assets/c0feee7212ef7ec1.i3d79q.vendor.js" defer integrity="sha512-28VLsnzSrYuJHZcZS4tF/Vm43quL3JoVU591yX4OMeN65ce6A9IjvwR3BtwZHhvmCDvwDkREIIEow4jipBA70g==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"></script><script crossorigin="anonymous" src="_assets/a975461ea63683b9.vendor.js" defer integrity="sha512-bX2cbHM8OgWNS5bi2i1obCzCkrf1k0mgl0xvgTlDavbk2OHgIcOHOyvAd9GJ02Qi2iiK5o6/u3lULCevfgcadA==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"></script><script crossorigin="anonymous" src="_assets/0aefb74a9ea3a9fd.strings.js" integrity="sha512-ZxXpMRVBe8ynh8BGj5DhDo1T5QiRr/q0rycOf808BOPGkdbL1zOWm1q1EqVF3WsBBsbaBGAoqm2ny2mSKZc1nw==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"></script><script crossorigin="anonymous" src="_assets/cf274150b001acf0.en.js" integrity="sha512-BQycU6ojOYNjFgM0UfNI+gIeLGPWUNaa/bNpuqCdJ/9dav5a6qdUkdjEjFRfyX2r+QNWQ4pZTWw2185DFOTdBg==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"></script><script crossorigin="anonymous" src="_assets/0d98854c0ce1963b.js" defer integrity="sha512-cN7mgZxS1hbbta0LdGaMcCxtkLJk+xWwXNQcC5iC/wgGjMLkpcXKWh06QxFJNpgtnKymLX1kLjpxQ89tHVjkcA==" nonce="46cd1e47-fd54-4258-9ab4-a3037f3e00ff"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commission Savings Calculator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #f6f9fc 0%, #edf2f7 100%);
+            min-height: 100vh;
+        }
+        
+        .calculator-container {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 
+                0 10px 15px -3px rgba(0, 0, 0, 0.1),
+                0 4px 6px -2px rgba(0, 0, 0, 0.05),
+                0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+        }
+        
+        .gold-accent {
+            color: #D4AF37;
+        }
+        
+        .result-card {
+            transform: translateY(0);
+            transition: all 0.3s ease;
+            box-shadow: 
+                0 10px 25px -5px rgba(0, 0, 0, 0.1),
+                0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        .result-card.active {
+            transform: translateY(-5px);
+            box-shadow: 
+                0 20px 25px -5px rgba(0, 0, 0, 0.1),
+                0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        .calculate-btn {
+            background: linear-gradient(135deg, #D4AF37 0%, #E6C55C 100%);
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px -1px rgba(212, 175, 55, 0.2), 0 2px 4px -1px rgba(212, 175, 55, 0.1);
+        }
+        
+        .calculate-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(212, 175, 55, 0.3), 0 4px 6px -2px rgba(212, 175, 55, 0.2);
+        }
+        
+        input:focus {
+            box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.3);
+        }
+        
+        .result-value {
+            transition: all 0.3s ease;
+        }
+        
+        .result-value.highlight {
+            transform: scale(1.05);
+        }
+        
+        .savings-highlight {
+            background: linear-gradient(135deg, #f8f1d5 0%, #fdf6e3 100%);
+            border: 1px solid rgba(212, 175, 55, 0.3);
+        }
+        
+        .pulse-animation {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(212, 175, 55, 0.4);
+            }
+            70% {
+                box-shadow: 0 0 0 10px rgba(212, 175, 55, 0);
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(212, 175, 55, 0);
+            }
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center p-4">
+    <div class="calculator-container w-full max-w-xl rounded-2xl p-8 md:p-10">
+        <h1 class="text-3xl md:text-4xl font-bold text-center mb-2">Commission Savings</h1>
+        <p class="text-center text-gray-600 mb-8">See how much you save by avoiding the 6% agent commission</p>
+        
+        <div class="mb-8">
+            <label for="askingPrice" class="block text-sm font-medium text-gray-700 mb-2">Home Asking Price</label>
+            <div class="relative">
+                <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-500">$</span>
+                <input 
+                    type="text" 
+                    id="askingPrice" 
+                    placeholder="Enter your home's asking price" 
+                    class="w-full pl-8 pr-4 py-4 rounded-xl border border-gray-300 focus:outline-none focus:border-yellow-400 text-lg"
+                    aria-label="Home asking price"
+                >
+            </div>
+        </div>
+        
+        <button id="calculateBtn" class="calculate-btn w-full py-4 rounded-xl text-white font-semibold text-lg mb-8">
+            Calculate Your Savings
+        </button>
+        
+        <div id="resultsContainer" class="space-y-6 opacity-0 transition-opacity duration-300">
+            <div class="result-card bg-white rounded-xl p-6 border border-gray-100">
+                <p class="text-sm text-gray-500 mb-1">Home Asking Price</p>
+                <p id="originalPrice" class="text-2xl md:text-3xl font-bold result-value">$0</p>
+            </div>
+            
+            <div class="result-card savings-highlight rounded-xl p-6 pulse-animation">
+                <div class="flex justify-between items-center mb-1">
+                    <p class="text-sm font-medium text-gray-700">Traditional Agent Commission (6%)</p>
+                    <span class="bg-red-500 text-white text-xs px-2 py-1 rounded-full">AVOIDED</span>
+                </div>
+                <p id="commissionAmount" class="text-3xl md:text-4xl font-extrabold text-red-500 result-value">$0</p>
+            </div>
+            
+            <div class="result-card bg-white rounded-xl p-6 border border-gray-100">
+                <p class="text-sm text-gray-500 mb-1">Our Flat Service Fee</p>
+                <p id="serviceFee" class="text-xl md:text-2xl font-bold text-gray-700 result-value">$1,000</p>
+            </div>
+            
+            <div class="result-card savings-highlight rounded-xl p-6">
+                <p class="text-sm font-medium text-gray-700 mb-1">YOUR TOTAL SAVINGS</p>
+                <p id="netSavings" class="text-3xl md:text-5xl font-extrabold gold-accent result-value">$0</p>
+                <p class="text-sm text-gray-600 mt-2">Get all the benefits of an agent without the high commission!</p>
+            </div>
+            
+            <div class="result-card bg-white rounded-xl p-6 border border-gray-100">
+                <p class="text-sm text-gray-500 mb-1">Your Net After Our Fee</p>
+                <p id="netAmount" class="text-2xl md:text-3xl font-bold text-green-600 result-value">$0</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const askingPriceInput = document.getElementById('askingPrice');
+            const calculateBtn = document.getElementById('calculateBtn');
+            const resultsContainer = document.getElementById('resultsContainer');
+            const originalPrice = document.getElementById('originalPrice');
+            const commissionAmount = document.getElementById('commissionAmount');
+            const serviceFee = document.getElementById('serviceFee');
+            const netSavings = document.getElementById('netSavings');
+            const netAmount = document.getElementById('netAmount');
+            const resultCards = document.querySelectorAll('.result-card');
+            
+            const SERVICE_FEE = 1000; // Our flat service fee
+            
+            // Format number as currency
+            function formatCurrency(value) {
+                return new Intl.NumberFormat('en-US', {
+                    style: 'currency',
+                    currency: 'USD',
+                    minimumFractionDigits: 0,
+                    maximumFractionDigits: 0
+                }).format(value);
+            }
+            
+            // Clean input value - remove non-numeric characters
+            function cleanInputValue(value) {
+                return value.replace(/[^0-9]/g, '');
+            }
+            
+            // Format input value with commas
+            function formatInputValue(value) {
+                const numericValue = cleanInputValue(value);
+                if (numericValue === '') return '';
+                return new Intl.NumberFormat('en-US').format(parseInt(numericValue));
+            }
+            
+            // Calculate commission and update results
+            function calculateCommission() {
+                const cleanValue = cleanInputValue(askingPriceInput.value);
+                
+                if (cleanValue === '' || isNaN(parseInt(cleanValue))) {
+                    return;
+                }
+                
+                const askingPrice = parseInt(cleanValue);
+                const commission = askingPrice * 0.06;
+                const savings = commission - SERVICE_FEE;
+                const net = askingPrice - SERVICE_FEE;
+                
+                // Update result values with animation
+                originalPrice.textContent = formatCurrency(askingPrice);
+                commissionAmount.textContent = formatCurrency(commission);
+                serviceFee.textContent = formatCurrency(SERVICE_FEE);
+                netSavings.textContent = formatCurrency(savings);
+                netAmount.textContent = formatCurrency(net);
+                
+                // Show results container
+                resultsContainer.classList.add('opacity-100');
+                
+                // Add active class to result cards with staggered delay
+                resultCards.forEach((card, index) => {
+                    setTimeout(() => {
+                        card.classList.add('active');
+                        card.querySelector('.result-value').classList.add('highlight');
+                        
+                        setTimeout(() => {
+                            card.querySelector('.result-value').classList.remove('highlight');
+                        }, 500);
+                    }, index * 100);
+                });
+            }
+            
+            // Handle input formatting
+            askingPriceInput.addEventListener('input', function(e) {
+                const cursorPosition = e.target.selectionStart;
+                const originalLength = e.target.value.length;
+                
+                // Format the value
+                const cleanValue = cleanInputValue(e.target.value);
+                const formattedValue = formatInputValue(cleanValue);
+                
+                e.target.value = formattedValue;
+                
+                // Adjust cursor position after formatting
+                const newLength = e.target.value.length;
+                const newPosition = cursorPosition + (newLength - originalLength);
+                e.target.setSelectionRange(newPosition, newPosition);
+            });
+            
+            // Calculate on button click
+            calculateBtn.addEventListener('click', calculateCommission);
+            
+            // Calculate on Enter key
+            askingPriceInput.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter') {
+                    calculateCommission();
+                }
+            });
+        });
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9466b7b4c5e86210',t:'MTc0ODM2MTU0Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
